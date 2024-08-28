@@ -2,6 +2,10 @@
 
 **Tindog** is a simple web application inspired by Tinder, but for dogs! This project demonstrates basic HTML and CSS principles using the Bootstrap framework.
 
+## Preview
+
+![Tindog Preview](./chrome_pX5grmUOGW.gif)
+
 ## Overview
 
 This project is a static website built with HTML and styled using Bootstrap. It showcases responsive design principles, grid layouts, and other essential features of modern web development. The goal of Tindog is to create a visually appealing, mobile-friendly interface where users can "swipe" through dog profiles.
