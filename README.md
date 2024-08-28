@@ -1,6 +1,7 @@
 # Tindog 🐾
 
 **Tindog** is a simple web application inspired by Tinder, but for dogs! This project demonstrates basic HTML and CSS principles using the Bootstrap framework.
+
 **Link** : [Tindog](https://benhemoshai.github.io/Tindog/)
 
 ## Preview
