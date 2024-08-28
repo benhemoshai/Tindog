@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Tindog Preview](./chrome_pX5grmUOGW.gif)
+![Tindog Preview](./preview.gif)
 
 ## Overview
 
